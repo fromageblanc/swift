@@ -39,7 +39,7 @@ dog2.wow()
 
 //実行結果
 //僕はpochiです。3才です。
-//Vow! Vow! Vow! Vow! Vow! Vow! 
+//Vow! Vow! Vow! 
 //僕はtaroです。15才です。
 //Vow! Vow! Vow! Vow! Vow! Vow! Vow! Vow! Vow! Vow! Vow! Vow! Vow! Vow! Vow! 
 
