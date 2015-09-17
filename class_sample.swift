@@ -1,3 +1,4 @@
+/* class sample swift */
 class Member {
 	var name:String = ""
 	var hp:Int = 0
