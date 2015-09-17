@@ -15,7 +15,7 @@ for f in fruit {
 // 要素数
 println(fruit.count)
 println(fruit.capacity)
-// 最初のインデックス
+// 最初のindex
 println(fruit.startIndex) // 0
 // 最後のインデックス
 println(fruit.endIndex)  // 4  attension ! 要素数？！
