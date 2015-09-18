@@ -54,8 +54,9 @@ func testFunction2(a:Int)->()->Int {
 	}
 }
 
+// 関数型の変数に参照を代入
 var pFunc = testFunction2(3)
 println(pFunc()) // 3
 println(pFunc()) // 9
 println(pFunc()) // 27
-
+println(pFunc()) // 81
